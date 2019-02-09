@@ -1,0 +1,19 @@
+{
+  "require-dev": {
+    "phpunit/phpunit": "^8.0",
+    "symfony/var-dumper": "*"
+  },
+  "require": {
+    "symfony/console": "^4.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "D3\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "D3\\Tests\\": "tests/"
+    }
+  }
+}

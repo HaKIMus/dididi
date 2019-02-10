@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace D3\Domain\ValueObject;
+namespace D3\Examples\Tower\Domain\ValueObject;
 
 final class Id
 {

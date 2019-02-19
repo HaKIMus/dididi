@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace D3\Examples\Tower\Domain\ValueObject;
+namespace D3\Examples\ValueObjects\Domain\ValueObject;
 
 final class Name
 {

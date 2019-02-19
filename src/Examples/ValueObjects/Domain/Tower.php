@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace D3\Examples\Tower\Domain;
+namespace D3\Examples\ValueObjects\Domain;
 
 use D3\Examples\Tower\Domain\ValueObject\CompletedAt;
 use D3\Examples\Tower\Domain\ValueObject\Height;

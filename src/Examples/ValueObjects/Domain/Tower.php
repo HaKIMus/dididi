@@ -4,10 +4,10 @@ declare(strict_types=1);
 
 namespace D3\Examples\ValueObjects\Domain;
 
-use D3\Examples\Tower\Domain\ValueObject\CompletedAt;
-use D3\Examples\Tower\Domain\ValueObject\Height;
-use D3\Examples\Tower\Domain\ValueObject\Id;
-use D3\Examples\Tower\Domain\ValueObject\Name;
+use D3\Examples\ValueObjects\Domain\ValueObject\CompletedAt;
+use D3\Examples\ValueObjects\Domain\ValueObject\Height;
+use D3\Examples\ValueObjects\Domain\ValueObject\Id;
+use D3\Examples\ValueObjects\Domain\ValueObject\Name;
 
 final class Tower
 {

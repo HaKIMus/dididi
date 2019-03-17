@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace D3\Tests\Examples\Tower\Domain\ValueObject;
+namespace D3\Tests\Examples\ValueObjects\Domain\ValueObject;
 
-use D3\Examples\Tower\Domain\ValueObject\CompletedAt;
-use D3\Examples\Tower\Domain\ValueObject\Id;
-use D3\Examples\Tower\Domain\ValueObject\Name;
+use D3\Examples\ValueObjects\Domain\ValueObject\CompletedAt;
+use D3\Examples\ValueObjects\Domain\ValueObject\Id;
+use D3\Examples\ValueObjects\Domain\ValueObject\Name;
 use PHPUnit\Framework\TestCase;
 
 final class IdTest extends TestCase

@@ -2,13 +2,13 @@
 
 declare(strict_types=1);
 
-namespace D3\Tests\Examples\Tower\Domain;
+namespace D3\Tests\Examples\ValueObjects\Domain;
 
-use D3\Examples\Tower\Domain\Tower;
-use D3\Examples\Tower\Domain\ValueObject\CompletedAt;
-use D3\Examples\Tower\Domain\ValueObject\Height;
-use D3\Examples\Tower\Domain\ValueObject\Id;
-use D3\Examples\Tower\Domain\ValueObject\Name;
+use D3\Examples\ValueObjects\Domain\Tower;
+use D3\Examples\ValueObjects\Domain\ValueObject\CompletedAt;
+use D3\Examples\ValueObjects\Domain\ValueObject\Height;
+use D3\Examples\ValueObjects\Domain\ValueObject\Id;
+use D3\Examples\ValueObjects\Domain\ValueObject\Name;
 use PHPUnit\Framework\TestCase;
 
 final class TowerTest extends TestCase
